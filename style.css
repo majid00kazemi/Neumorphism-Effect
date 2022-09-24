@@ -14,6 +14,7 @@ body{
     justify-content: center;
     align-items: center;
     align-content: center;
+    margin-top: 200px;
 }
 .neumorphism-1{
     margin: auto;
@@ -28,6 +29,10 @@ body{
     align-content: center;
     border-radius: 1.5rem;
     margin: 1.3em;
+    transition: all 0.5s;
+}
+.neumorphism-1:hover{
+    transform: scale(1.1);
 }
 h1{
     margin: 1.2em;
