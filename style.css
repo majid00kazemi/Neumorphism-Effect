@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: auto;
+}
+.neumorphism-1{
+    width: 50px;
+    height: 50px;
+    box-shadow: -3px -3px 7px #ffffff73 , 3px 3px 5px rgba(94,104,121,.288) ;
+}
